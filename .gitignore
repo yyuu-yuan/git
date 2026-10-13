@@ -1,0 +1,25 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ---- 通用 ----
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+
+# ---- 构建产物 ----
+dist/
+build/
+*.exe
